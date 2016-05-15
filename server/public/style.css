@@ -1,0 +1,9 @@
+body {
+  display: inline;
+}
+.operators {
+  display: block;
+}
+h1, h3 {
+  color: #597;
+}

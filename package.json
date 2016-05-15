@@ -1,0 +1,22 @@
+{
+  "name": "weekend-challenge-3",
+  "version": "1.0.0",
+  "description": "solo weekend challenge with more server more modules more pancakes",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "keywords": [
+    "pancakes",
+    "calculator"
+  ],
+  "author": "Zach Kusz",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4",
+    "jquery": "^2.2.3"
+  }
+}
